@@ -1,1 +1,1 @@
-[![michabirklbauer.github.io](header.gif)](https://michabirklbauer.github.io)
+[![michabirklbauer.github.io](files/banner.png)](https://michabirklbauer.github.io)
